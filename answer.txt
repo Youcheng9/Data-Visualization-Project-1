@@ -1,0 +1,29 @@
+Question:
+Is the difference between Netflix and Hulu greater than the difference between Disney+ and HBO Max?
+Answer:
+Yes
+
+Question:
+Is the increase in EV car sales from 2015 to 2016 greater than the increase from 2023 to 2024?
+Answer:
+Yes
+
+Question:
+Which age group has the highest cancer death rates?
+Answer:
+60s
+
+Question:
+Which consecutive year range had the largest decrease in rainfall?
+Answer:
+2017–2018
+
+Question:
+Which consecutive year range had the largest decrease in rainfall?
+Answer:
+2017–2018
+
+Question:
+Which iPhone model had the lowest sales?
+Answer:
+iPhone 13
