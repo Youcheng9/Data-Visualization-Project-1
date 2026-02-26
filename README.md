@@ -17,12 +17,12 @@ Does visualization type affect how accurately people interpret data?
 
 ### Datasets Used
 The following datasets were used in this experiment:
-1. Streaming platform subscription prices
+1. Degree Population at HK State Polytechnic
 2. EV car sales over multiple years
 3. Cancer death rates by age group
 4. Annual rainfall data (2015–2026)
 5. Olympic medal counts by country
-6. iPhone sales by model
+6. Adidas sales over the years
 
 ***Note**: All datasets are made up except for Olympic medal counts are recorded by 02/21/2026*
 
