@@ -1,0 +1,41 @@
+Dataset 1: 
+  Degree Population at HK State Polytechnic
+    Q1: Is Psychology enrollment higher than Economics enrollment?
+      Answer: Yes
+    Q2: Is Nursing enrollment higher than Philosophy enrollment?
+      Answer: Yes
+
+Dataset 2: 
+  EV Car Sales Over The Years
+    Q1: Between which two consecutive years did sales increase the most?
+      Answer: 2017-2018
+    Q2: Between which two consecutive years did sales decrease the most?
+      Answer: 2022-2023
+
+Dataset 3: 
+  Cancer Death Rates by Age Group
+    Q1: For which cancer type is the difference between the 50s and 60s age groups the largest?
+      Answer: Breast
+    Q2: For which cancer type is the difference between the 30s and 40s age groups the largest?
+      Answer: Lung
+
+Dataset 4: 
+  Annual Rainfall (2015–2026)
+    Q1: Between which two consecutive years did rainfall increase the most?
+      Answer: 2015-2016
+    Q2: Between which two consecutive years did rainfall decrease the most?
+      Answer: 2023-2024
+
+Dataset 5: 
+  Olympic Medal Counts by Country
+    Q1: Which country ranks third in total medal count?
+      Answer: Italy
+    Q2: Which country ranks fourth lowest in total medal count?
+      Answer: Sweden
+
+Dataset 6: 
+  Adidas Sales Over the Years
+    Q1: Between which two consecutive years did Adidas sales increase the most?
+      Answer: 2018-2019
+    Q2: Between which two consecutive years did Adidas sales decrease the most?
+      Answer: 2020-2021
