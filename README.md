@@ -28,13 +28,13 @@ The following datasets were used in this experiment:
 5. Olympic medal counts by country
 6. Adidas sales over the years
 
+***Note**: All datasets are made up except for Olympic medal counts are recorded by 02/21/2026*
+
 ### Visualization Attibutes Used
 1. Position: Bar Chart, Line Chart, Horizontal Bar Chart, Grouped Bar Chart
 2. Length: Bar Chart, Horizontal Bar Chart, Grouped Bar Chart
 3. Area: Area Chart, Bubble Chart
 4. Color: Heatmap
-
-***Note**: All datasets are made up except for Olympic medal counts are recorded by 02/21/2026*
 
 ### Tech stacks
 - Python
