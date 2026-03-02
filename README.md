@@ -14,6 +14,10 @@ The visualizations were distributed through an online survey sent to friends and
 
 A total of 12 responses were collected and used for analysis. For each visualization type, participant answers were compared to the true values in order to calculate accuracy. The results were then grouped by encoding type (position/length vs area/color) to examine differences in perceptual performance.
 
+### Tech stacks
+- Python
+- Matplotlib
+- Numpy
 
 **Research Question:**
 Does the type of visual encoding (position, length, area, or color) affect the accuracy of quantitative perception in accordance with Stevens’ Power Law?
@@ -28,18 +32,13 @@ The following datasets were used in this experiment:
 5. Olympic medal counts by country
 6. Adidas sales over the years
 
+***Note**: All datasets are made up except for Olympic medal counts are recorded by 02/21/2026*
+
 ### Visualization Attibutes Used
 1. Position: Bar Chart, Line Chart, Horizontal Bar Chart, Grouped Bar Chart
 2. Length: Bar Chart, Horizontal Bar Chart, Grouped Bar Chart
 3. Area: Area Chart, Bubble Chart
 4. Color: Heatmap
-
-***Note**: All datasets are made up except for Olympic medal counts are recorded by 02/21/2026*
-
-### Tech stacks
-- Python
-- Matplotlib
-- Numpy
 
 ## Conclusion
 This experiment investigated Stevens’ Power Law by examining how different visual encodings influence perceptual accuracy in quantitative judgment. The results show that participants were significantly more accurate when interpreting charts that relied on position and length compared to those that relied on area and color.
